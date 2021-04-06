@@ -1,4 +1,9 @@
-main()
+main(int arg)
 {
-  printf("testfile1"); 
+  if(arg[1] == 1)
+  {
+    printf("1"); 
+  }else{
+    printf("1"); 
+  }
 }
